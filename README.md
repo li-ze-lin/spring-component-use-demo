@@ -7,3 +7,4 @@
 - [spring boot mybatis 使用演示](https://github.com/li-ze-lin/spring-component-use-demo/tree/mybatis)
 - [spring cache 使用演示](https://github.com/li-ze-lin/spring-component-use-demo/tree/cache)
 - [spring data jpa 使用演示](https://github.com/li-ze-lin/spring-component-use-demo/tree/jpa)
+- [spring amqp(rabbit) 使用演示](https://github.com/li-ze-lin/spring-component-use-demo/tree/amqp)
