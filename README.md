@@ -5,3 +5,4 @@
 - [spring for apache kafka(基于spring boot) 使用演示](https://github.com/li-ze-lin/spring-component-use-demo/tree/kafka)
 - [apache dubbo spring boot 使用演示](https://github.com/li-ze-lin/spring-component-use-demo/tree/dubbo)
 - [apache boot mybatis 使用演示](https://github.com/li-ze-lin/spring-component-use-demo/tree/mybatis)
+- [apache boot cache 使用演示](https://github.com/li-ze-lin/spring-component-use-demo/tree/cache)
