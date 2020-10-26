@@ -10,3 +10,4 @@
 - [spring amqp(rabbit) 使用演示](https://github.com/li-ze-lin/spring-component-use-demo/tree/amqp)
 - [spring jms(activemq) 使用演示](https://github.com/li-ze-lin/spring-component-use-demo/tree/jms)
 - [spring boot web 开启http2](https://github.com/li-ze-lin/spring-component-use-demo/tree/open-http2)
+- [spring boot websocket 使用演示](https://github.com/li-ze-lin/spring-component-use-demo/tree/websocket)
