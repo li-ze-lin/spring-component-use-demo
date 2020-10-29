@@ -42,9 +42,9 @@
 ```
 
 ## 使用
-- [自动生成 StudentMapper](https://github.com/li-ze-lin/spring-component-use-demo/blob/mybatis/src/main/java/cn/lzl/mybatis/mapper/StudentMapper.java)
-- [自建用于演示join JoinMapper](https://github.com/li-ze-lin/spring-component-use-demo/blob/mybatis/src/main/java/cn/lzl/mybatis/mapper/extend/JoinMapper.java)
-- [example](https://github.com/li-ze-lin/spring-component-use-demo/blob/mybatis/src/test/java/cn/lzl/mybatis/mapper/StudentMapperTest.java)
+- [自动生成 StudentMapper](https://github.com/li-ze-lin/spring-component-use-demo/tree/master/mybatis/src/main/java/cn/lzl/mybatis/mapper/StudentMapper.java)
+- [自建用于演示join JoinMapper](https://github.com/li-ze-lin/spring-component-use-demo/tree/master/mybatis/src/main/java/cn/lzl/mybatis/mapper/extend/JoinMapper.java)
+- [example](https://github.com/li-ze-lin/spring-component-use-demo/tree/master/mybatis/src/test/java/cn/lzl/mybatis/mapper/StudentMapperTest.java)
 ```java
 class StudentMapperTest extends MybatisApplicationTests {
 
